@@ -1,0 +1,16 @@
+.logo{
+font-size: 2.5rem;
+}
+
+.color-white, .fa-solid, .logo, .fa-brands{
+    color: #ffffff;
+}
+
+.fa-brands, .fa-solid{
+    /* font-size: 2rem; */
+    padding: 0.5rem 1rem;
+}
+
+.no-margin {
+    line-height: 8px;
+  }
